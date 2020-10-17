@@ -1,1 +1,3 @@
-# cz4042_assignment_1
+# CZ4042 Assignment 1
+
+By Tan Chuan Xin
